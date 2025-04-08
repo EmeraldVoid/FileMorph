@@ -7,7 +7,8 @@
 <p align="center">
   a lightweight collection of <a href="https://www.python.org/">Python-based</a> scripts
   <br>
-  <a href="https://bootswatch.com/"><strong>View Bootswatch themes »</strong></a>
+ <br>
+  <a href="https://github.com/EmeraldVoid/FileMorph/releases"><strong>Latest Releases »</strong></a>
   <br>
   <br>
   <a href="https://github.com/EmeraldVoid/FileMorph/issues/new">Report bug</a>
