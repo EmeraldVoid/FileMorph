@@ -18,24 +18,26 @@
   <a href="https://emeraldvoid.github.io/EmeraldVoid/">Website</a>
 </p>
 
-# 🌀 FileMorph
-
-![GitHub last commit](https://img.shields.io/github/last-commit/emeraldvoid/FileMorph)
-![GitHub repo size](https://img.shields.io/github/repo-size/emeraldvoid/FileMorph)
-![GitHub issues](https://img.shields.io/github/issues/emeraldvoid/FileMorph)
-![GitHub](https://img.shields.io/github/license/emeraldvoid/FileMorph)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
-![Built with Python](https://img.shields.io/badge/built%20with-python-blue)
-
-
-
-**FileMorph** is a lightweight collection of Python-based scripts designed to convert one file format into another—quickly, cleanly, and with minimal setup. Whether you're converting `.webp` files to `.png`, or `.png` to `.ico`, FileMorph provides simple tools for your everyday file transformation needs.
-
-> ⚠️ **Note:** These tools were built for personal use and convenience. They're offered as-is, and may not support every file format or edge case.
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/emeraldvoid/FileMorph" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/emeraldvoid/FileMorph" alt="Repo Size">
+  <img src="https://img.shields.io/github/issues/emeraldvoid/FileMorph" alt="Issues">
+  <img src="https://img.shields.io/github/license/emeraldvoid/FileMorph" alt="License">
+  <img src="https://img.shields.io/badge/built%20with-python-blue" alt="Built With Python">
+  <img src="https://img.shields.io/badge/maintained-yes-brightgreen" alt="Maintained">
+</p>
 
 ---
 
-## 📦 Usage
+## 📦 What is FileMorph?
+
+**FileMorph** is a lightweight collection of Python-based scripts designed to convert one file format into another—quickly, cleanly, and with minimal setup. Whether you're converting `.webp` files to `.png`, or `.png` to `.ico`, FileMorph provides simple tools for your everyday file transformation needs.
+
+> ⚠️ **Note:** These tools were built for personal use and convenience. They're offered as-is and may not support every file format or edge case.
+
+---
+
+## 🧰 Usage
 
 To use any of the included file conversion tools:
 
@@ -47,7 +49,7 @@ To use any of the included file conversion tools:
    - Then, enter the **path** to the folder where the converted files should be saved.
 5. Sit back and let the tool handle the conversion.
 
-All tools are terminal-based and require **Python 3.8+** to be installed on your system.
+> 💡 All tools are terminal-based and require **Python 3.8+**.
 
 ---
 
@@ -62,6 +64,34 @@ More tools will be added as needed based on real-world use cases.
 
 ---
 
+## 📁 Suggested Folder Structure
+
+Each script will prompt you to specify input/output directories, but you can optionally prepare folders like this:
+
+```
+FileMorph/
+│
+├── webp2png_tool.py
+├── png2ico_tool.py
+│
+├── input_files/      ← Place original files here (e.g., .webp)
+└── output_files/     ← Converted files will be saved here (e.g., .png)
+```
+
+---
+
+## 🛠️ Dependencies
+
+- The latest version of [python](https://www.python.org/)  
+- [Pillow](https://python-pillow.org) – for image processing  
+- [tqdm](https://github.com/tqdm/tqdm) – for progress bar display
+
+```bash
+pip install pillow tqdm
+```
+
+---
+
 ## 🧪 Future Plans
 
 While FileMorph started as a personal utility toolkit, here are a few possibilities for the future:
@@ -71,19 +101,16 @@ While FileMorph started as a personal utility toolkit, here are a few possibilit
 - 🖼️ Drag-and-drop interface (maybe!).
 - 🧰 Packaging as an executable or simple GUI.
 
-No timeline is guaranteed. FileMorph is an evolving toolset made to scratch specific itches.
+> ⏳ FileMorph was never meant to be a full application—these are tools made to solve recurring file conversion tasks in my workflow.
 
 ---
 
-## 🛠️ Dependencies
+## ⚠️ AI Assistance Notice
 
-All scripts use built-in or widely used Python libraries:
-- `os`
-- `sys`
-- `Pillow` (for image processing)
-- `tqdm` (for progress bars)
+> 🧠 This project was created with the help of artificial intelligence (AI). Some of the code, documentation, and ideas were generated or enhanced using AI tools. While every effort has been made to ensure the accuracy and quality of the work, the content might contain areas that could benefit from further human review and refinement.
 
-You can install missing dependencies with:
+Feel free to contribute or suggest improvements, and thank you for understanding!
 
-```bash
-pip install pillow tqdm
+---
+
+
