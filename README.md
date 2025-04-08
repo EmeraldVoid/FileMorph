@@ -5,7 +5,7 @@
 <h3 align="center">FileMorph</h3>
 
 <p align="center">
-  A collection of open source themes for <a href="https://getbootstrap.com/">Bootstrap</a>
+  a lightweight collection of <a href="https://www.python.org/">Python-based</a> scripts
   <br>
   <a href="https://bootswatch.com/"><strong>View Bootswatch themes »</strong></a>
   <br>
