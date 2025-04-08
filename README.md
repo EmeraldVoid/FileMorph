@@ -41,7 +41,7 @@
 
 To use any of the included file conversion tools:
 
-1. **Download** the latest release of FileMorph.
+1. **Download** the **[latest release](https://github.com/EmeraldVoid/FileMorph/releases)** of FileMorph.
 2. **Extract** the contents to a folder of your choice.
 3. **Double-click** the specific `.py` script you want to run.
 4. When prompted:
