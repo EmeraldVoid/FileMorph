@@ -10,11 +10,11 @@
   <a href="https://bootswatch.com/"><strong>View Bootswatch themes »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/thomaspark/bootswatch/issues/new">Report bug</a>
+  <a href="https://github.com/EmeraldVoid/FileMorph/issues/new">Report bug</a>
   ·
-  <a href="https://github.com/thomaspark/bootswatch/issues/new">Request feature</a>
+  <a href="https://github.com/EmeraldVoid/FileMorph/issues/new">Request feature</a>
   ·
-  <a href="https://blog.bootswatch.com/">Blog</a>
+  <a href="https://emeraldvoid.github.io/EmeraldVoid/">Website</a>
 </p>
 
 # 🌀 FileMorph
