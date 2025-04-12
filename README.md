@@ -15,7 +15,7 @@
   ·
   <a href="https://github.com/EmeraldVoid/FileMorph/issues/new">Request feature</a>
   ·
-  <a href="https://emeraldvoid.github.io/EmeraldVoid/">Website</a>
+  <a href="https://emeraldvoid.github.io/FileMorph/">Website</a>
 </p>
 
 <p align="center">
