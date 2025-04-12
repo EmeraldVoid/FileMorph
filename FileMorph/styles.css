@@ -1,0 +1,126 @@
+/* Reset & base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* Header */
+  header {
+    background: #1a1a1a;
+    color: #fff;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  nav ul {
+    display: flex;
+    gap: 1.5rem;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  nav a:hover {
+    color: #00d1b2;
+  }
+  
+  /* Hero */
+  .hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: #fff;
+    flex-wrap: wrap;
+  }
+  .hero-content {
+    max-width: 500px;
+  }
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
+  .hero button {
+    background: #fff;
+    color: #0072ff;
+    border: none;
+    padding: 0.8rem 1.2rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .hero-img {
+    max-width: 400px;
+    margin-top: 2rem;
+  }
+  
+  /* Features */
+  #features {
+    padding: 4rem 2rem;
+    background: #fff;
+    text-align: center;
+  }
+  .feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  .feature img {
+    width: 60px;
+    margin-bottom: 1rem;
+  }
+  
+  /* Downloads */
+  #downloads {
+    padding: 4rem 2rem;
+    background: #eef2f7;
+    text-align: center;
+  }
+  .download-btn {
+    background: #00d1b2;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1rem 0;
+  }
+  code {
+    background: #eee;
+    padding: 0.4rem 0.8rem;
+    display: inline-block;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  
+  /* Footer */
+  footer {
+    background: #1a1a1a;
+    color: #aaa;
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.9rem;
+  }
+  
