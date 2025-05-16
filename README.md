@@ -10,6 +10,7 @@
  <br>
   <a href="https://github.com/EmeraldVoid/FileMorph/releases"><strong>Latest Releases »</strong></a>
   <br>
+  <a href="https://github.com/EmeraldVoid/FileMorph/blob/main/changelog.md"><strong>Changelog »</strong></a>
   <br>
   <a href="https://github.com/EmeraldVoid/FileMorph/issues/new">Report bug</a>
   ·
@@ -59,8 +60,11 @@ FileMorph is **not** a universal file converter—it's a set of practical tools 
 
 - `.webp` → `.png`
 - `.png` → `.ico`
+- `.png` → `.gif`
+- `webp` → `gif`
 
-More tools will be added as needed based on real-world use cases.
+
+***More tools will be added as needed based on real-world use cases.***
 
 ---
 
