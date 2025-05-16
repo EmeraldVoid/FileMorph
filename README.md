@@ -120,9 +120,15 @@ While FileMorph started as a personal utility toolkit, here are a few possibilit
 
 ## ⚠️ AI Assistance Notice
 
-> 🧠 This project was created with the help of artificial intelligence (AI). Some of the code, documentation, and ideas were generated or enhanced using AI tools. While every effort has been made to ensure the accuracy and quality of the work, the content might contain areas that could benefit from further human review and refinement.
+> 🧠 **This project was created with the help of artificial intelligence (AI)**. Some of the code, documentation, and feature ideas were generated or enhanced using AI tools to streamline the development process.
 
-Feel free to contribute or suggest improvements, and thank you for understanding!
+While every effort has been made to ensure accuracy, functionality, and clarity, some parts may benefit from further human review or refinement.
+
+These scripts were created primarily to improve the developer's workflow — so if AI-generated content isn't your thing, that’s totally understandable.
+We still hope you’ll find something useful or interesting in the wider collection of projects over on [Emerald\_Void’s GitHub Repository Page](https://github.com/EmeraldVoid?tab=repositories).
+
+**Thanks for reading, and for understanding. 💚**
+
 
 ---
 
