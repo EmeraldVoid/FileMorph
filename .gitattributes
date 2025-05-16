@@ -1,2 +1,52 @@
-# Auto detect text files and perform LF normalization
+# -------------------------------------
+# Line Ending Normalization
+# -------------------------------------
+
+# Auto-detect text files and normalize line endings to LF in repo
 * text=auto
+
+# Force Unix-style line endings for shell scripts
+*.sh text eol=lf
+
+# Force Windows-style line endings for batch scripts
+*.bat text eol=crlf
+
+# -------------------------------------
+# Treat Binary Files Properly
+# -------------------------------------
+
+# Images and media
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+
+# Archive formats
+*.zip binary
+*.rar binary
+*.7z binary
+*.tar binary
+*.gz binary
+
+# Fonts and others
+*.ttf binary
+*.otf binary
+
+# -------------------------------------
+# GitHub Linguist Overrides (optional)
+# -------------------------------------
+
+# Don't count docs or assets as source code
+docs/** linguist-documentation
+assets/** linguist-vendored
+
+# -------------------------------------
+# GitHub ZIP Export Ignore (optional)
+# -------------------------------------
+
+# Uncomment to exclude from GitHub-generated ZIPs
+# dev_tools/ export-ignore
+# test/ export-ignore
+# *.psd export-ignore
