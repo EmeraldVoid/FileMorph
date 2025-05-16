@@ -128,5 +128,6 @@ These scripts were created primarily to improve the developer's workflow — so 
 We still hope you’ll find something useful or interesting in the wider collection of projects over on [Emerald\_Void’s GitHub Repository Page](https://github.com/EmeraldVoid?tab=repositories).
 
 <p align="center"><strong>Thanks for reading, and for understanding. 💚</strong></p>
+<p align="center"><img src="https://i.imgur.com/BL3VYev.png"></p>
 
 
