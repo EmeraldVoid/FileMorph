@@ -127,9 +127,6 @@ While every effort has been made to ensure accuracy, functionality, and clarity,
 These scripts were created primarily to improve the developer's workflow — so if AI-generated content isn't your thing, that’s totally understandable.
 We still hope you’ll find something useful or interesting in the wider collection of projects over on [Emerald\_Void’s GitHub Repository Page](https://github.com/EmeraldVoid?tab=repositories).
 
-**Thanks for reading, and for understanding. 💚**
-
-
----
+<p align="center"><strong>Thanks for reading, and for understanding. 💚</strong></p>
 
 
