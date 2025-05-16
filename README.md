@@ -30,9 +30,18 @@
 
 ---
 
-## 📦 What is FileMorph?
+# What is FileMorph?
 
-**FileMorph** is a lightweight collection of Python-based scripts designed to convert one file format into another—quickly, cleanly, and with minimal setup. Whether you're converting `.webp` files to `.png`, or `.png` to `.ico`, FileMorph provides simple tools for your everyday file transformation needs.
+**FileMorph** is a lightweight, Python-powered toolkit built to make file format conversion fast, clean, and hassle-free. Whether you're turning `.webp` images into `.png`, `.png` into `.ico`, or batch-renaming dozens of images at once, FileMorph offers a growing collection of simple, no-nonsense tools designed for everyday file transformation.
+
+Originally focused on image format conversion, **FileMorph is now evolving** into a broader utility suite — handling not just conversion, but organization and file management as well.
+
+---
+
+## 🗂️ Additional Info
+
+FileMorph was created by **Emerald\_Void** out of practical need — converting image formats and batch-renaming files became a frequent part of his creative process for digital art, content creation, and general experimentation. Rather than relying on multiple apps or websites, FileMorph became a personal toolkit that turned into something worth sharing.
+
 
 > ⚠️ **Note:** These tools were built for personal use and convenience. They're offered as-is and may not support every file format or edge case.
 
